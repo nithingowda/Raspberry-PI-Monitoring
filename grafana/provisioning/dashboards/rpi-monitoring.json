@@ -871,7 +871,7 @@
               "textMode": "auto"
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -1017,7 +1017,7 @@
               }
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -1300,7 +1300,7 @@
               }
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -1541,7 +1541,7 @@
               "textMode": "auto"
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -1676,7 +1676,7 @@
               "textMode": "auto"
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -1794,7 +1794,7 @@
               "textMode": "auto"
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -1913,7 +1913,7 @@
               "textMode": "auto"
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -2503,7 +2503,7 @@
               "wideLayout": true
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -2601,7 +2601,7 @@
               "wideLayout": true
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -2704,7 +2704,7 @@
               "wideLayout": true
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -2803,7 +2803,7 @@
               "wideLayout": true
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -2902,7 +2902,7 @@
               "wideLayout": true
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -3533,7 +3533,7 @@
               "wideLayout": true
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -3640,7 +3640,7 @@
               "wideLayout": true
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -3747,7 +3747,7 @@
               "wideLayout": true
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     },
@@ -3868,7 +3868,7 @@
               "textMode": "auto"
             }
           },
-          "version": "13.0.1+security-01"
+          "version": "13.0.2"
         }
       }
     }
