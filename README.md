@@ -27,7 +27,7 @@ To install the stack, follow the steps below:
 
 - Clone this repository to your host machine.
 ```bash
-git clone https://github.com/nithingowda/Raspberry-PI-Monitoring.git
+sudo git clone https://github.com/nithingowda/Raspberry-PI-Monitoring.git
 ```
 
 - Enter to the cloned directory.
